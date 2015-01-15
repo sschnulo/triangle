@@ -1,0 +1,137 @@
+vane1 = { 
+   'shape'       : 'POSITIVE',
+   'bladerowName': 'vane1',
+   'velocityIn'  : 499.557,
+   'alphaIn'     : 0,
+   'UbladeIn'    : 0,
+   'vRelIn'      : 499.557,
+   'betaIn'      : 0,
+   'bladeAngleIn': 0,
+   'velocityOut' : 1220.97,
+   'alphaOut'    : 1.08842,
+   'UbladeOut'   : 0,
+   'vRelOut'     : 1220.97,
+   'betaOut'     : -1.08842,
+   'bladeAngleOut':1.1063
+ }
+
+rotor1 = { 
+   'shape'       : 'NEGATIVE',
+   'bladerowName': 'rotor1',
+   'velocityIn'  : 1203.19,
+   'alphaIn'     : 1.08965,
+   'UbladeIn'    : 545.624,
+   'vRelIn'      : 762.536,
+   'betaIn'      : -0.752138,
+   'bladeAngleIn': 0.752138,
+   'velocityOut' : 912.633,
+   'alphaOut'    : -0.630368,
+   'UbladeOut'   : 552.587,
+   'vRelOut'     : 1316.35,
+   'betaOut'     : 0.976337,
+   'bladeAngleOut':-1.01728
+ }
+
+vane2 = { 
+   'shape'       : 'POSITIVE',
+   'bladerowName': 'vane2',
+   'velocityIn'  : 831.95,
+   'alphaIn'     : -0.684354,
+   'UbladeIn'    : 0,
+   'vRelIn'      : 831.95,
+   'betaIn'      : 0.684354,
+   'bladeAngleIn': -0.684354,
+   'velocityOut' : 1392.15,
+   'alphaOut'    : 1.08812,
+   'UbladeOut'   : 0,
+   'vRelOut'     : 1392.15,
+   'betaOut'     : -1.08812,
+   'bladeAngleOut':1.10181
+ }
+
+rotor2 = { 
+   'shape'       : 'NEGATIVE',
+   'bladerowName': 'rotor2',
+   'velocityIn'  : 1321.37,
+   'alphaIn'     : 1.14866,
+   'UbladeIn'    : 606.767,
+   'vRelIn'      : 807.109,
+   'betaIn'      : -0.835553,
+   'bladeAngleIn': 0.835553,
+   'velocityOut' : 885.386,
+   'alphaOut'    : -0.730613,
+   'UbladeOut'   : 612.033,
+   'vRelOut'     : 1371.76,
+   'betaOut'     : 1.06934,
+   'bladeAngleOut':-1.09663
+ }
+
+vane3 = { 
+   'shape'       : 'POSITIVE',
+   'bladerowName': 'vane3',
+   'velocityIn'  : 876.506,
+   'alphaIn'     : -0.725201,
+   'UbladeIn'    : 0,
+   'vRelIn'      : 876.506,
+   'betaIn'      : 0.725201,
+   'bladeAngleIn': -0.725201,
+   'velocityOut' : 1340.31,
+   'alphaOut'    : 1.13646,
+   'UbladeOut'   : 0,
+   'vRelOut'     : 1340.31,
+   'betaOut'     : -1.13646,
+   'bladeAngleOut':1.14603
+ }
+
+rotor3 = { 
+   'shape'       : 'NEGATIVE',
+   'bladerowName': 'rotor3',
+   'velocityIn'  : 1316.87,
+   'alphaIn'     : 1.14009,
+   'UbladeIn'    : 653.597,
+   'vRelIn'      : 772.747,
+   'betaIn'      : -0.779176,
+   'bladeAngleIn': 0.779176,
+   'velocityOut' : 838.63,
+   'alphaOut'    : -0.48745,
+   'UbladeOut'   : 657.696,
+   'vRelOut'     : 1285.51,
+   'betaOut'     : 0.956494,
+   'bladeAngleOut':-0.99892
+ }
+
+vane4 = { 
+   'shape'       : 'POSITIVE',
+   'bladerowName': 'vane4',
+   'velocityIn'  : 796.466,
+   'alphaIn'     : -0.510576,
+   'UbladeIn'    : 0,
+   'vRelIn'      : 796.466,
+   'betaIn'      : 0.510576,
+   'bladeAngleIn': -0.510576,
+   'velocityOut' : 1300.64,
+   'alphaOut'    : 0.951421,
+   'UbladeOut'   : 0,
+   'vRelOut'     : 1300.64,
+   'betaOut'     : -0.951421,
+   'bladeAngleOut':0.973152
+ }
+
+rotor4 = { 
+   'shape'       : 'NEGATIVE',
+   'bladerowName': 'rotor4',
+   'velocityIn'  : 1263.41,
+   'alphaIn'     : 0.983781,
+   'UbladeIn'    : 677.771,
+   'vRelIn'      : 793.514,
+   'betaIn'      : -0.490987,
+   'bladeAngleIn': 0.490987,
+   'velocityOut' : 930.664,
+   'alphaOut'    : -0.300997,
+   'UbladeOut'   : 677.771,
+   'vRelOut'     : 1303.66,
+   'betaOut'     : 0.820589,
+   'bladeAngleOut':-0.874307
+ }
+
+BRnames = [ vane1, rotor1, vane2, rotor2, vane3, rotor3, vane4, rotor4 ]
